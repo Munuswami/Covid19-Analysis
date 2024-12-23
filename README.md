@@ -26,15 +26,15 @@ country_wise_latest dataset is used for this project. Download this from kaggle.
 ## IDE 
 Use better IDE like Jupyter Notebook for better visualisation. Other IDE's like PyCharm,Anaconda also fit for this project.
 ## Results
--Confirmed Cases: Provided a comprehensive summary including total, mean, median, and quartiles.
+##Confirmed Cases: Provided a comprehensive summary including total, mean, median, and quartiles.
 Deaths and Recoveries: Highlighted the key statistics such as total deaths, total recoveries, and their distributions across different regions.
 
--Distribution of Confirmed Cases, Deaths, and Recoveries:
+##Distribution of Confirmed Cases, Deaths, and Recoveries:
 Histograms depicting the frequency of confirmed cases, deaths, and recoveries.
 Trends Over Time:
 Line plots showing the number of new cases, deaths, and recoveries over time to visualize the pandemic's progression.
 
--Growth Patterns:
+##Growth Patterns:
 Identified regions with the highest growth rates of COVID-19 cases.
 Mortality and Recovery:
 Provided insights into regions with higher case fatality rates and recovery rates.
